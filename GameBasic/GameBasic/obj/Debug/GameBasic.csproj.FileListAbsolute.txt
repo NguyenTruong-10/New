@@ -1,0 +1,15 @@
+D:\GameBasic\GameBasic\bin\Debug\GameBasic.exe.config
+D:\GameBasic\GameBasic\bin\Debug\GameBasic.exe
+D:\GameBasic\GameBasic\obj\Debug\Interop.MediaPlayer.dll
+D:\GameBasic\GameBasic\obj\Debug\Interop.WMPLib.dll
+D:\GameBasic\GameBasic\obj\Debug\GameBasic.csproj.ResolveComReference.cache
+D:\GameBasic\GameBasic\obj\Debug\GameBasic.Form1.resources
+D:\GameBasic\GameBasic\obj\Debug\GameBasic.New_Form.resources
+D:\GameBasic\GameBasic\obj\Debug\GameBasic.Properties.Resources.resources
+D:\GameBasic\GameBasic\obj\Debug\GameBasic.csproj.GenerateResource.cache
+D:\GameBasic\GameBasic\obj\Debug\GameBasic.csproj.CoreCompileInputs.cache
+D:\GameBasic\GameBasic\obj\Debug\GameBasic.exe
+D:\GameBasic\GameBasic\obj\Debug\GameBasic.pdb
+D:\GameBasic\GameBasic\bin\Debug\GameBasic.pdb
+D:\GameBasic\GameBasic\obj\Debug\GameBasic.csproj.AssemblyReference.cache
+D:\GameBasic\GameBasic\obj\Debug\GameBasic.Recharge.resources
